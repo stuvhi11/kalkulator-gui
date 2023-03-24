@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\implementasi\bin\Debug\implementasi.exe.config
+C:\Users\LENOVO\source\repos\implementasi\bin\Debug\implementasi.exe
+C:\Users\LENOVO\source\repos\implementasi\bin\Debug\implementasi.pdb
+C:\Users\LENOVO\source\repos\implementasi\obj\Debug\implementasi.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\implementasi\obj\Debug\implementasi.Form1.resources
+C:\Users\LENOVO\source\repos\implementasi\obj\Debug\implementasi.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\implementasi\obj\Debug\implementasi.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\implementasi\obj\Debug\implementasi.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\implementasi\obj\Debug\implementasi.exe
+C:\Users\LENOVO\source\repos\implementasi\obj\Debug\implementasi.pdb
